@@ -186,12 +186,13 @@ so closely against her foot, that there was hardly room to open her
 mouth; but she did it at last, and managed to swallow a morsel of the
 lefthand bit.
 
+<pre>
 *      *      *      *      *      *      *
 
     *      *      *      *      *      *
 
 *      *      *      *      *      *      *
-
+</pre>
 
 “Come, my head’s free at last!” said Alice in a tone of delight, which
 changed into alarm in another moment, when she found that her shoulders
