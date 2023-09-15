@@ -1,18 +1,30 @@
+html{
+    max-width: 960px;
+    font-size: 16px;
+    line-height: 1.25;
+    background-color: blanchedalmond;
+}
+
 body{
-    font-family: 'Atkinson Hyperlegible', sans-serif;
+    font-family: 'Roboto Slab', serif;
 }
 
 img{
-    max-width: 400px;
+    max-width: 350px;
     height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
+figure{
+    padding: 2%;
+    background-color: rgba(195, 191, 191, 0.544);
+}
+
 figcaption{
     text-align: center;
-    font-size: larger;
+    font-size: small;
     font-family: 'Times New Roman', Times, serif;
 }
 
